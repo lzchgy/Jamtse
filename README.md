@@ -1,0 +1,4 @@
+# Jamtse
+Jamtse is a general Tibetan language inputting scheme that's convenient to stack arbitrary letters with. Designed with comfort and keystroke efficiency in mind. It's already very usable. But would want more polish for key arrangements of less used symbols. Currently the only implementation is m17n. It should perform well on [colemak mod-dh](https://github.com/ColemakMods/mod-dh/) and qwerty.
+
+See [this paper with Modern Tibetan statistical data ](https://www.semanticscholar.org/paper/Zipf's-Law-and-Statistical-Data-on-Modern-Tibetan-Liu-Nuo/57c449d708ba8ec21fd3a40ebf14cb8b9f49684c/) and [Tibetan Direct Input](https://help.keyman.com/keyboard/tibetan_unicode_direct_input/).
